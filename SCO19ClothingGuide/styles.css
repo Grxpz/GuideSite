@@ -64,10 +64,3 @@ button:hover {
     background-image: url(https://cdn.discordapp.com/attachments/721834655157977089/1056114938680197120/scothing2.png);
 }
 
-.box:hover {
-    width: 1900px;
-    padding: 10px 10px;
-    height: 1050px;
-    transition: 1.0s;
-    background-image: url(https://cdn.discordapp.com/attachments/721834655157977089/1056124076659310642/hover.png)
-}
