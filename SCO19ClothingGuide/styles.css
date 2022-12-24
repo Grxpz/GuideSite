@@ -64,3 +64,7 @@ button:hover {
     background-image: url(https://cdn.discordapp.com/attachments/721834655157977089/1056114938680197120/scothing2.png);
 }
 
+#wrapper {
+    position: relative;
+    margin-left: 150px;
+}
