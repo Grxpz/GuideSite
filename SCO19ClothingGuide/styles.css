@@ -57,7 +57,7 @@ button:hover {
     background-color: grey;
 }
 
-.box {
+.homepagebox {
     width: 1900px;
     padding: 10px 10px;
     height: 1050px;
@@ -67,4 +67,11 @@ button:hover {
 #wrapper {
     position: relative;
     margin-left: 150px;
+}
+
+.afobox {
+    width: 1900px;
+    padding: 10px 10px;
+    height: 1050px;
+    background-image: url(https://cdn.discordapp.com/attachments/721834655157977089/1056114938680197120/scothing2.png);
 }
